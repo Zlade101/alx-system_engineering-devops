@@ -3,3 +3,4 @@
 1. Confused Smiley -> Write a script that displays a confused smiley
 2. HellOfFile -> display the contents of the /etc/passwd file.
 3. Twofiles -> display the contents of the /etc/passwd and /etc/hosts.
+4. 4lastlines -> display the last ten lines of /etc/passwd
